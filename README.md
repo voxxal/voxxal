@@ -1,1 +1,2 @@
-its never too late to change
+<p align="center">"The big choices we make [in life] are practically random. The small choices probably tell us more about who we are. Which field we go into may depend on which high school teacher we happen to meet. Who we marry may depend on who happens to be around at the right time of life. On the other hand, the small decisions are very systematic. That I became a psychologist is probably not very revealing. What kind of psychologist I am may refelct deep traits."</p>
+<p align="center">—Amos Tversky</p>
